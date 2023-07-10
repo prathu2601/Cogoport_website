@@ -1,0 +1,64 @@
+.Trusted_part{
+    display: block;
+    margin-bottom: 50px;
+}
+
+.Trust{
+    text-align: center;
+    font-size: 28px;
+}
+
+.Company_nm{
+    display: block;
+    position: relative;
+    width: 100vw;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.Anima{
+    display: flex;
+
+    animation-name: cardAnimation;
+    animation-duration: 32s;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+}
+
+@keyframes cardAnimation {
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(-50%);
+    }
+}
+
+.Company_name{
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    gap: 0.1rem;
+    align-items: center;
+    justify-content: space-around;
+    min-width: 100%;
+}
+
+.styles_img{
+    width: 146px;
+    height: 73px;
+    margin-right: 40px;
+    margin-left: 40px;
+    color:transparent;
+}
+
+@media (max-width:767px) {
+    .Trust{
+        font-size: 20px;
+        margin-top: 0;
+    }
+}

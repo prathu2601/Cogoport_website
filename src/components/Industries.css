@@ -1,0 +1,59 @@
+.Industries_main{
+    padding: 16px!important;
+    background-color: #fffef3;
+    margin-bottom: 50px;
+}
+
+.Industries_sec{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 16px;
+}
+
+.Industries_sec h3{
+    font-size: 28px;
+    text-align: center;
+}
+
+.Industries_name{
+    display: flex;
+    flex-flow: row wrap;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.Indus{
+    width: 100px;
+    margin: 10px;
+}
+
+.Indus img{
+    width: 100px;
+    height: 100px;
+}
+
+.Medicine_name{
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 700;
+    color: #000;
+    text-align: center;
+}
+
+@media (max-width:767px) {
+    .Industries_main{
+        padding: initial!important;
+        margin-bottom: 32px;    
+    }
+    .Industries_sec{
+        width: 100%;
+    }
+    .Industries_sec h3{
+        font-size: 20px;
+    }
+    .Industries_name{
+        justify-content: center;
+    }
+}

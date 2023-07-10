@@ -1,0 +1,21 @@
+.Box2_main{
+    background-color: #fbdc00;
+    height: 100px;
+}
+
+.Box2_container{
+    height: 100px;
+    background-color: #fff;
+    border-radius: 5px;
+    border-bottom-left-radius: 100% 200%;
+    border-bottom-right-radius: 100% 200%;
+}
+
+@media (max-width:767px) {
+    .Box2_main{
+        height: 40px;
+    }
+    .Box2_container{
+        height: 40px;
+    }
+}

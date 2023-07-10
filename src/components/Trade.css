@@ -1,0 +1,96 @@
+.Trade_main{
+    margin-bottom: 50px;
+}
+
+.Trade_sec{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* border: 2px solid; */
+}
+
+.Trade_content{
+    flex: 1 1;
+}
+
+.Trade_content h2{
+    font-size: 40px;
+    margin: 20px 0px;
+}
+
+.Trade_content p{
+    font-size: 16px;
+    margin-bottom: 1em;
+}
+
+.Trade_span{
+    margin: 20px 0px;
+}
+
+.Trade_button{
+    color: #fff;
+    background-color: #ee3425;
+    padding: 8px 42px;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 20px;
+    height: 40px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 700;
+}
+
+.Image_move{
+    display: block;
+    animation: Move_image;
+    animation-duration: 4s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+    object-fit: contain;
+    aspect-ratio: auto 280/360;
+}
+
+.Image_move_card{
+    display: flex;
+    flex: 1 1;
+    justify-content: flex-end;
+}
+
+
+@keyframes Move_image {    
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+@media (max-width:767px) {
+    .Trade_main{
+        margin-bottom: 32px;
+    }
+    .Trade_sec{
+        display: flex;
+        flex-direction: column-reverse;
+        width: 100%!important;
+        padding-right: 16px!important;
+        padding-left: 16px!important;
+    }
+    .Trade_content{
+        display: flex;
+        flex-direction: column;
+    }
+    .Trade_content h2{
+        font-size: 24px;
+    }
+    .Image_move{
+        width: 100%;
+    }
+}

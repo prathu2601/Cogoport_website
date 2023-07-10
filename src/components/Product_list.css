@@ -1,0 +1,40 @@
+.Product_list_main{
+    display: none;
+}
+
+.Product_list_con{
+    padding: 16px 0 0;
+    overflow-y: scroll;
+    border-bottom: 0.5px solid rgba(0,0,0,.4);
+}
+.Product_list_button{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0;
+    text-align: left;
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+
+.Product_list_button h3{
+    font-size: 20px;
+    padding: 0 0 16px 16px;
+    margin: 0;
+}
+
+.svg{
+    transform: rotate(90deg);
+}
+
+@media (max-width:767px) {   
+    .Product_list_main{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        background: #fbdc00;
+    }
+
+}

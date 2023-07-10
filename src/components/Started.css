@@ -1,0 +1,42 @@
+.Started_main{
+    background-color: #fbdc00;
+    margin-bottom: 50px;
+}
+
+.Start{
+    width: 1200px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10px;
+}
+
+.Start h3{
+    font-size: 28px;
+}
+
+.Start button{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px!important;
+}
+
+@media (max-width:767px) {
+    .Started_main{
+        margin-bottom: 32px;
+    }
+    .Start{
+        width: 100%;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .Start h3{
+        font-size: 20px;
+    }
+}

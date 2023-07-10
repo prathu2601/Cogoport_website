@@ -1,0 +1,42 @@
+.main_numbers{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px 0px;
+}
+
+.main_num{
+    display: flex;
+    flex-flow: row wrap;
+    align-content: space-between;
+    justify-content: space-between;
+    padding: 50px 0;
+}
+
+.Numbers_sec h2{
+    color: red;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.Numbers_sec h4{
+    font-size: 16px;
+}
+
+@media (max-width:767px) {
+    .main_numbers{
+        width: 100%;
+        padding: 0;
+    }
+    .main_num{
+        padding: 0;
+    }
+    .Numbers_sec{
+        width: 50%;
+        text-align: center;
+    }
+    .Numbers_sec h2{
+        font-size: 24px;
+    }
+}

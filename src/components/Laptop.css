@@ -1,0 +1,196 @@
+.Laptop_main{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Laptop_sec{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.Laptop_sec h3{
+    font-size: 28px;
+    margin-top: 0px;
+    margin-bottom: 1em;
+}
+
+.Laptop_button{
+    display: flex;
+
+}
+
+.Button_first{
+    /* display: flex; */
+    margin: 0px 10px;
+    padding: 10px 30px;
+    background-color: #fbdc00!important;
+    border: #fbdc00;
+    border-radius: 20px;
+    font-size: 14px!important;
+    font-weight: 700!important;
+}
+
+.Button_second{
+    /* display: flex; */
+    margin: 0px 10px;
+    padding: 10px 30px;
+    background-color: #e5dfdf;
+    border: gray;
+    border-radius: 20px;
+    font-size: 14px!important;
+    font-weight: 700!important;
+}
+
+.Laptop_rows{
+    position: relative;
+    display: flex;
+}
+
+.Laptop767{
+    display: none;
+}
+
+.Laptop_row{
+    display: flex;
+}
+
+.Laptop_dis{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Laptop_dis img{
+    width: 560px;
+    height: 320px;
+}
+
+.Laptop_card1{
+    margin-bottom: 120px;
+    width: 300px;
+    padding: 16px;
+    border-radius: 10px;
+    box-shadow: 0 1px 6px rgba(169,188,218,.65);
+}
+
+.Card_heading{
+    font-weight: 600;
+    color: #ee3425;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+.Card_heading_sec{
+    display: flex;
+    align-items: center;
+    padding: 0 0 10px;
+    margin: 0;
+    list-style-position: outside;
+}
+
+.Card_sec_pa{
+    padding-bottom: 5px;
+    padding-left: 8px;
+    margin: 0;
+    font-size: 16px;
+}
+.Laptop_arrow1{
+    top: 104px;
+    left: 300px;
+    position: absolute;
+}
+
+.Laptop_card2{
+    width: 300px;
+    padding: 16px;
+    border-radius: 10px;
+    box-shadow: 0 1px 6px rgba(169,188,218,.65);
+}
+
+.Laptop_arrow2{
+    bottom: 116px;
+    left: 300px;
+    position: absolute;
+}
+
+.Laptop_arrow3{
+    top: 104px;
+    right: 300px;
+    position: absolute;
+}
+
+.Laptop_arrow4{
+    right: 300px;
+    bottom: 116px;
+    position: absolute;
+}
+.Lap_img{
+    width: 150px;
+    height: 59px;
+}
+
+@media (max-width:767px) {
+    .Laptop_main{
+        width: 100%;
+    }
+    .Laptop_sec{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .Laptop_sec h3{
+        font-size: 20px;
+    }
+    .Laptop_button{
+        flex-direction: column;
+    }
+    .Button_first{
+        margin-bottom: 10px;
+    }
+    .Button_second{
+        margin-bottom: 10px;
+    }
+    .Laptop767{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    .Laptop767 img{
+        width: 280px;
+        height: auto;
+        margin-top: 10px;
+    }
+    .Laptop_dis{
+        display: none;
+    }
+    .Laptop_arrow1{
+        display: none;
+    }
+    .Laptop_arrow2{
+        display: none;
+    }
+    .Laptop_arrow3{
+        display: none;
+    }
+    .Laptop_arrow4{
+        display: none;
+    }
+    .Laptop_rows{
+        flex-direction: column;
+        width: 100%;
+    }
+    .Laptop_card1{
+        width: 100%;
+        margin-bottom: 20px;   
+    }
+    .Laptop_card2{
+        width: 100%;
+        margin-bottom: 20px;   
+    }
+}

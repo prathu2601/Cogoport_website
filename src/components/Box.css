@@ -1,0 +1,22 @@
+.box_dimensions{
+    background-color: #fffef2;
+    height: 100px;
+}
+
+.box_cut{
+    height: 100px;
+    background-color: #fff;
+    border-radius: 5px;
+    border-bottom-left-radius: 100% 200%;
+    border-bottom-right-radius: 100% 200%;
+}
+
+@media (max-width:767px) {
+    .box_dimensions{
+        height: 40px;
+    }
+    .box_cut{
+        height: 40px;
+    }
+}
+

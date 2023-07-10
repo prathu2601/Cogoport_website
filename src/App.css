@@ -1,0 +1,20 @@
+.App{
+  display: grid;
+}
+
+.Complete_mid_main{
+  display: flex;
+}
+
+.Complete_mid_sec{
+  flex: 1 1;
+  background-color: #fff;
+}
+
+.Products_supply{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 40px;
+    background: #fffef2;
+}

@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Cogoport_website/static/css/main.0fc42d1a.css",
+    "main.js": "/Cogoport_website/static/js/main.640114c6.js",
+    "static/js/787.79bf8df0.chunk.js": "/Cogoport_website/static/js/787.79bf8df0.chunk.js",
+    "static/media/cogoverse_desktop_2_webm.webm": "/Cogoport_website/static/media/cogoverse_desktop_2_webm.a7c5affde5a6b2dfe28f.webm",
+    "static/media/homepagem1.png": "/Cogoport_website/static/media/homepagem1.d4a7e2d23a0cc1a5febf.png",
+    "static/media/homepagem1.webp": "/Cogoport_website/static/media/homepagem1.85463af61eedbe567775.webp",
+    "static/media/map-supply-chain.webp": "/Cogoport_website/static/media/map-supply-chain.8d5caf9aa56ef048fe91.webp",
+    "static/media/homepage-video.webp": "/Cogoport_website/static/media/homepage-video.7608d46317269d6479f6.webp",
+    "static/media/trade-tech-home-1.webp": "/Cogoport_website/static/media/trade-tech-home-1.fd784f52e19b0e171843.webp",
+    "static/media/home-banner-background-1.webp": "/Cogoport_website/static/media/home-banner-background-1.8f5e69a95f454a7b1ceb.webp",
+    "static/media/electronics.svg": "/Cogoport_website/static/media/electronics.aa9a70b67f2a95e1cac2a9a8784cd9e4.svg",
+    "static/media/manufactoring.svg": "/Cogoport_website/static/media/manufactoring.39e9a655d6dfeb108ea4ac79f205a16b.svg",
+    "static/media/cogoport-subscribe.webp": "/Cogoport_website/static/media/cogoport-subscribe.f4eb6e12a55eb6c31e33.webp",
+    "static/media/Eng_2405_Banner.jpeg": "/Cogoport_website/static/media/Eng_2405_Banner.93ce98b5bb7daafc0641.jpeg",
+    "static/media/textiles.svg": "/Cogoport_website/static/media/textiles.312f151f8bc1a5fa7025c33d605871d2.svg",
+    "static/media/bombay-dyeing-logo-1.webp": "/Cogoport_website/static/media/bombay-dyeing-logo-1.b63c6bf6859378f2525b.webp",
+    "static/media/paracetamol.svg": "/Cogoport_website/static/media/paracetamol.4618d2e6a687435ff46041c672bbfeb6.svg",
+    "static/media/chemical.svg": "/Cogoport_website/static/media/chemical.7960f8d42d7445754df7e611d9131e6d.svg",
+    "static/media/Envirotainer_Banner.webp": "/Cogoport_website/static/media/Envirotainer_Banner.64daf3cbeea755859ef4.webp",
+    "static/media/whitegoods.svg": "/Cogoport_website/static/media/whitegoods.bcbfd6b100773112bdfdca74f7a031e7.svg",
+    "static/media/agriculture.svg": "/Cogoport_website/static/media/agriculture.5c4f8d9cce4650c6c2c5af36a6b55867.svg",
+    "static/media/ais-logo-1.webp": "/Cogoport_website/static/media/ais-logo-1.d38b8c00a17c202449f9.webp",
+    "static/media/Cogoport_Positioning_Banner.webp": "/Cogoport_website/static/media/Cogoport_Positioning_Banner.51533fbabafd1d569b46.webp",
+    "static/media/jsw-logo-new.webp": "/Cogoport_website/static/media/jsw-logo-new.d9bd3bd38c4d27482fdb.webp",
+    "static/media/linearrow1.webp": "/Cogoport_website/static/media/linearrow1.40e74839b83e9c4c3536.webp",
+    "static/media/linearrow4.webp": "/Cogoport_website/static/media/linearrow4.915ab604eebf7974d41e.webp",
+    "static/media/linearrow.webp": "/Cogoport_website/static/media/linearrow.f3e8a756ba0181b9346c.webp",
+    "static/media/linearrow2.webp": "/Cogoport_website/static/media/linearrow2.db9b14ee1d662095b9ba.webp",
+    "static/media/globe.webp": "/Cogoport_website/static/media/globe.0e46b122aaa153a4c63a.webp",
+    "index.html": "/Cogoport_website/index.html",
+    "main.0fc42d1a.css.map": "/Cogoport_website/static/css/main.0fc42d1a.css.map",
+    "main.640114c6.js.map": "/Cogoport_website/static/js/main.640114c6.js.map",
+    "787.79bf8df0.chunk.js.map": "/Cogoport_website/static/js/787.79bf8df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fc42d1a.css",
+    "static/js/main.640114c6.js"
+  ]
+}

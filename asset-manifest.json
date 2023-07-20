@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Cogoport_website/static/css/main.0fc42d1a.css",
-    "main.js": "/Cogoport_website/static/js/main.640114c6.js",
+    "main.css": "/Cogoport_website/static/css/main.0a7f15fa.css",
+    "main.js": "/Cogoport_website/static/js/main.a09fc316.js",
     "static/js/787.79bf8df0.chunk.js": "/Cogoport_website/static/js/787.79bf8df0.chunk.js",
     "static/media/cogoverse_desktop_2_webm.webm": "/Cogoport_website/static/media/cogoverse_desktop_2_webm.a7c5affde5a6b2dfe28f.webm",
     "static/media/homepagem1.png": "/Cogoport_website/static/media/homepagem1.d4a7e2d23a0cc1a5febf.png",
@@ -28,14 +28,15 @@
     "static/media/linearrow4.webp": "/Cogoport_website/static/media/linearrow4.915ab604eebf7974d41e.webp",
     "static/media/linearrow.webp": "/Cogoport_website/static/media/linearrow.f3e8a756ba0181b9346c.webp",
     "static/media/linearrow2.webp": "/Cogoport_website/static/media/linearrow2.db9b14ee1d662095b9ba.webp",
+    "static/media/cogoport_icon.webp": "/Cogoport_website/static/media/cogoport_icon.afb102711fd2e18b403f.webp",
     "static/media/globe.webp": "/Cogoport_website/static/media/globe.0e46b122aaa153a4c63a.webp",
     "index.html": "/Cogoport_website/index.html",
-    "main.0fc42d1a.css.map": "/Cogoport_website/static/css/main.0fc42d1a.css.map",
-    "main.640114c6.js.map": "/Cogoport_website/static/js/main.640114c6.js.map",
+    "main.0a7f15fa.css.map": "/Cogoport_website/static/css/main.0a7f15fa.css.map",
+    "main.a09fc316.js.map": "/Cogoport_website/static/js/main.a09fc316.js.map",
     "787.79bf8df0.chunk.js.map": "/Cogoport_website/static/js/787.79bf8df0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fc42d1a.css",
-    "static/js/main.640114c6.js"
+    "static/css/main.0a7f15fa.css",
+    "static/js/main.a09fc316.js"
   ]
 }

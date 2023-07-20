@@ -17,10 +17,12 @@ import Subscribe from './components/Subscribe';
 import Location from './components/Location';
 import Product_list from './components/Product_list';
 import Footer from './components/Footer';
+import Top from './components/Top';
 
 function App() {
   return (
     <div className="App">
+      <Top/>
       <Navbar/>
       <div className='Complete_mid_main'>
         <div className='Complete_mid_sec'>

@@ -13,8 +13,16 @@
     border-radius: 10px;
 }
 
+.Product_boxxx h4{
+    margin-top: 5px;
+    line-height: 1.3em;
+    font-size: 16px;
+}
+
 .Product_name{
+    position: absolute;
     color: red;
+    bottom: 0!important;
 }
 
 @media (max-width:767px) {
@@ -23,5 +31,12 @@
         width: 128px;
         padding: 0;
         margin: 10px;
+    }
+    .Product_boxxx h4{
+        font-size: 12px!important;
+        margin-bottom: 5px;
+    }
+    .Product_name{
+        font-size: 12px!important;
     }
 }

@@ -70,6 +70,8 @@
     }
     .Video_con_sec{
         width: 100%;
+        align-items: flex-start;
+        flex-direction: column;
     }
     .Video_left{
         padding: 10px 0;

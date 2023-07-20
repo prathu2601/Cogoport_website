@@ -16,7 +16,7 @@ function Video_section2(){
         <div className='Video_con_sec'>
           <div className='Video_left'>
             <h3>Grow Faster with Cogoport</h3>
-            <p>Know more about Cogoport’s Global Trade Platform<sup>TM</sup></p>
+            <p>Know more about Cogoport's Global Trade Platform<sup>TM</sup></p>
           </div>
           <button>
             Know More

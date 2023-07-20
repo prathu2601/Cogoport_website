@@ -1,0 +1,60 @@
+.Top_main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ee3425;
+    height: 36px;
+}
+
+.Top_content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1 1;
+}
+
+.cogo_icon{
+    height: 16px;
+    width: 16px;
+    object-fit: contain;
+    margin-right: 6px;
+    margin-left: 3.2vw;
+}
+
+.cross_style{
+    display: flex;
+    margin-right: 60px;
+    align-items: center;
+}
+
+.White_col{
+    color: #fff;
+}
+
+.Yellow_col{
+    color: #fbdc22;
+    margin-left: 6px;
+    text-decoration: underline;
+}
+
+@media (max-width:767px) {
+    .Top_main{
+        height: 48px;
+    }
+    .Top_content{
+        align-self: center;
+        margin: 0;
+    }
+    .White_col{
+        flex: 1 1;
+        margin: 0 8px;
+        font-size: 12px;
+    }
+    .cogo_icon{
+        height: 25px;
+        width: 25px;
+    }
+    .cross_style{
+        margin: 0;
+    }
+}

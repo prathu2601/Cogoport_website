@@ -77,11 +77,14 @@
 
 .Content_column ul{
     list-style-type: none;
+    padding: inherit;
 }
 
 .Content_deco{
+    width: 100%;
     font-weight: bold;
     font-size: 18px;
+    text-decoration: underline;
 }
 
 @media (max-width:767px) {

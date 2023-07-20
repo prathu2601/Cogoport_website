@@ -37,11 +37,13 @@ function Subscribe() {
                     <li>dasdsa</li>
                     <li>dasdsa</li>
                     <li>dasdsa</li>
+                    <li>dasdsa</li>
+                    <li>dasdsa</li>
                 </ul>
             </div>
             <div className='Content_column'>
                 <ul>
-                    <li className='Content_deco'>Patners</li>
+                    <li className='Content_deco'>Partners</li>
                     <li>dasdsa</li>
                     <li>dasdsa</li>
                     <li>dasdsa</li>
